@@ -1,0 +1,16 @@
+0
+0.5
+0.2
+10.0
+4.0
+30
+4000
+2000
+	ReadInput >> mu
+	ReadInput >> sigma
+	ReadInput >> temp
+	ReadInput >> x
+	ReadInput >> delta
+	ReadInput >> nblk
+	ReadInput >> nstep
+	ReadInput >> eqstep
